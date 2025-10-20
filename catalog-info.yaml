@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: WebGoat
   annotations:
-    github.com/project-slug: MendDemo-josh/WebGoat
+    github.com/project-slug: Mend-3rdParty/WebGoat
 spec:
   type: service
   lifecycle: unknown
