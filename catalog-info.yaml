@@ -18,5 +18,5 @@ metadata:
 spec:
   profile:
     # Intentional no displayName for testing
-  email: dima.gorbonos@mend.io
+    email: dima.gorbonos@mend.io
   memberOf: []
