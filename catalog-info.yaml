@@ -12,11 +12,11 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
- annotations:
+  annotations:
     'github.com/user-login': DimaMend
   name: dima-gorbonos
 spec:
   profile:
     # Intentional no displayName for testing
-    email: dima.gorbonos@mend.io
+  email: dima.gorbonos@mend.io
   memberOf: []
