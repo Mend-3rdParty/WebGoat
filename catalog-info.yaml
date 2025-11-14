@@ -20,3 +20,15 @@ spec:
     # Intentional no displayName for testing
     email: dima.gorbonos@mend.io
   memberOf: []
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: josh-newton
+  annotations:
+    'github.com/user-login': joshbnewton31080
+spec:
+  profile:
+    # Intentional no displayName for testing
+    email: josh.newton@mend.io
+  memberOf: []
